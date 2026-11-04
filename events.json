@@ -1,0 +1,172 @@
+[
+ {
+  "time": "2026-11-02T15:00:00Z",
+  "title": "US ISM Manufacturing PMI",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-03T03:30:00Z",
+  "title": "AU RBA Policy Statement",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-03T03:30:00Z",
+  "title": "AU RBA Rate Decision",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-03T03:30:00Z",
+  "title": "AU RBA Rate Statement",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-03T04:30:00Z",
+  "title": "AU RBA Press Conf",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-03T07:30:00Z",
+  "title": "CH Inflation MoM",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-03T15:00:00Z",
+  "title": "US JOLTs Job Openings",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-03T15:16:00Z",
+  "title": "US Congressional Elections",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-03T16:00:00Z",
+  "title": "CA BoC Gov Speech",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-03T21:45:00Z",
+  "title": "NZ Employment Change QoQ",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-03T21:45:00Z",
+  "title": "NZ Unemployment Rate",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-04T10:00:00Z",
+  "title": "EA Core Inflation Flash Estimate",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-04T10:00:00Z",
+  "title": "EA Inflation Flash Estimate YoY",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-04T15:00:00Z",
+  "title": "US ISM Services PMI",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-05T12:00:00Z",
+  "title": "GB BoE Policy Report",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-05T12:00:00Z",
+  "title": "GB BoE Rate Decision",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-05T12:00:00Z",
+  "title": "GB BoE Rate Votes",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-05T12:00:00Z",
+  "title": "GB Monetary Policy Summary",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-05T12:30:00Z",
+  "title": "GB BoE Gov Speech",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-05T12:40:00Z",
+  "title": "CH SNB Chairman Schlegel Speech",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-05T13:30:00Z",
+  "title": "US Jobless Claims",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-05T15:30:00Z",
+  "title": "CA BoC Gov Speech",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-05T18:00:00Z",
+  "title": "EA ECB President Speech",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-05T21:00:00Z",
+  "title": "CA Annual Budget Release",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-06T13:30:00Z",
+  "title": "CA Employment Change",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-06T13:30:00Z",
+  "title": "CA Unemployment Rate",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-06T13:30:00Z",
+  "title": "US Avg Hourly Earnings MoM",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-06T13:30:00Z",
+  "title": "US Non Farm Payrolls",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-06T13:30:00Z",
+  "title": "US Unemployment Rate",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-06T15:00:00Z",
+  "title": "CA Ivey PMI",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-06T15:00:00Z",
+  "title": "US Michigan Infl Exp Prel",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-06T15:00:00Z",
+  "title": "US Michigan Sentiment Prel",
+  "impact": "Medium"
+ },
+ {
+  "time": "2026-11-06T16:00:00Z",
+  "title": "JP BoJ Gov Speech",
+  "impact": "High"
+ },
+ {
+  "time": "2026-11-06T21:45:00Z",
+  "title": "NZ Parliamentary Elections",
+  "impact": "High"
+ }
+]
