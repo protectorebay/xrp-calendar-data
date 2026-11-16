@@ -62,7 +62,7 @@
  {
   "time": "2026-11-18T07:30:00Z",
   "title": "GB BoE Gov Speech",
-  "impact": "High"
+  "impact": "Medium"
  },
  {
   "time": "2026-11-18T09:00:00Z",
@@ -122,11 +122,6 @@
  {
   "time": "2026-11-20T08:15:00Z",
   "title": "EA ECB President Speech",
-  "impact": "Medium"
- },
- {
-  "time": "2026-11-20T13:25:00Z",
-  "title": "US FOMC Member Waller Speech",
   "impact": "Medium"
  },
  {
