@@ -1,20 +1,5 @@
 [
  {
-  "time": "2026-11-20T15:00:00Z",
-  "title": "US Michigan Sentiment",
-  "impact": "Medium"
- },
- {
-  "time": "2026-11-20T15:00:00Z",
-  "title": "US UoM Inflation Expectations Rev",
-  "impact": "Medium"
- },
- {
-  "time": "2026-11-20T17:00:00Z",
-  "title": "US President Trump Speech",
-  "impact": "Medium"
- },
- {
   "time": "2026-11-23T08:15:00Z",
   "title": "FR Mfg PMI Flash",
   "impact": "Medium"
